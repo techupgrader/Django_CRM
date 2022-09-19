@@ -98,20 +98,3 @@ pipdeptree # to see pip dependancy tree
 black # to format code to meet python coding standards
 pip-check -H  # to see upgradable packages
 ```
-
-### Community
-
-Get help or stay up to date.
-
--   [Issues](<https://github.com/MicroPyramid/Django-CRM/issues>)
--   Follow [@micropyramid](<https://twitter.com/micropyramid>) on Twitter
--   Ask questions on [Stack Overflow](<https://stackoverflow.com/questions/tagged/django-crm>)
--   Chat with community [Gitter](<https://gitter.im/MicroPyramid/Django-CRM>)
--   For customisations, email to <django-crm@micropyramid.com>
-
-### Feature requests and bug reports
-
-We welcome your feedback and support, raise github issue if you want to
-report a bug or request new feature. we are glad to help.
-
-For commercial support [Contact us](https://micropyramid.com/contact-us/)
