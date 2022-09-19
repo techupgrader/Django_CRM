@@ -109,14 +109,6 @@ Get help or stay up to date.
 -   Chat with community [Gitter](<https://gitter.im/MicroPyramid/Django-CRM>)
 -   For customisations, email to <django-crm@micropyramid.com>
 
-## Credits
-
-### Contributors
-
-This project exists thanks to all the people who contribute!
-
-![image](https://opencollective.com/django-crm/contributors.svg?width=890&button=false)
-
 ### Feature requests and bug reports
 
 We welcome your feedback and support, raise github issue if you want to
